@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/%F0%9F%8F%AB-Wuhan%20University%20of%20Technology-important)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-information%20and%20computing%20science-blue)
 
-![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-pink)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-success)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-grey)
+![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-pink)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-ff69b4)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-grey)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
