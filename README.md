@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Package-pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
