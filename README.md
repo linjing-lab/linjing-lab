@@ -1,6 +1,6 @@
 # Hi there 👋
 
-📫 How to reach me: `📞18207129058`&emsp;`📨1439313331@qq.com`
+📫 How to reach me &emsp;`📞18207129058` `📨1439313331@qq.com`
 
 🔭 I'm currently studying at &emsp;`🎓Wuhan University of Technology`.
 
@@ -16,10 +16,12 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
+![](https://img.shields.io/badge/CSDN-200%2B-blue)
 
-You can find my articles on my website at https://blog.csdn.net/linjing_zyq
+You can find my articles on [website](https://blog.csdn.net/linjing_zyq).tuxiang
 
 💬 Ask me about `package development`, `optimization method`, `pattern recognition`, `machine learning`, `data analysis`.
 
