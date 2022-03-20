@@ -1,12 +1,10 @@
 # Hi there 👋
 
-📫 How to reach me &emsp;`📞18207129058` `📨1439313331@qq.com`
+![](https://img.shields.io/badge/%F0%9F%93%9E-18207129058-red)&emsp;![](https://img.shields.io/badge/%E2%9C%89-1439313331%40qq.com-lightgrey) 
 
-🔭 I'm currently studying at &emsp;`🎓Wuhan University of Technology`.
+![](https://img.shields.io/badge/%F0%9F%8F%AB-Wuhan%20University%20of%20Technology-important)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-information%20and%20computing%20science-blue)
 
-🌱 I’m currently learning &emsp;`📚information and computing science`.
-
-😄 Pronouns: &emsp;`🙋‍creativity` `💡self-driven` `✨positive` `💻coding`.
+![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-pink)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-yellowgreen)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-success)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -19,11 +17,10 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
-![](https://img.shields.io/badge/CSDN-200%2B-blue)
-
-You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
 
 💬 Ask me about `package development`, `optimization method`, `pattern recognition`, `machine learning`, `data analysis`.
+
+You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
 
 ## &#x1f4c8; GitHub Stats
 
