@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=clion&leogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-YOLO-informational?style=flat&logo=vggnet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
@@ -30,7 +30,11 @@
 ## &#x270d; Blog & Writing
 ![](https://img.shields.io/badge/CSDN-%3E200%E5%85%B3%E6%B3%A8-informational)
 
-💬 Ask me about `package development`, `optimization method`, `machine learning`, `data analysis`.
+💬 Ask me about
+- `package development`
+- `optimization method`
+- `machine learning`
+- `data analysis`
 
 You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
 
