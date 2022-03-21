@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/Tool-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Network-CNN-informational?style=flat&logo=cnn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=clion&leogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
