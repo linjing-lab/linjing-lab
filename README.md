@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/Framework-YOLO-informational?style=flat&logo=yolo&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
-![](https://img.shields.io/badge/CSDN-%3E200%E5%85%B3%E6%B3%A8-informational)
+![](https://img.shields.io/badge/CSDN-%EF%BC%9E200%20followers-informational)&emsp;![](https://img.shields.io/badge/Pageviews-%EF%BC%9E10w-informational)
 
 💬 Ask me about
 - `package development`
