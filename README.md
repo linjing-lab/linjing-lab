@@ -9,26 +9,28 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Community-PyPi-informational?style=flat&logo=pypi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Network-CNN-informational?style=flat&logo=cnn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=clion&leogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Platform-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-YOLO-informational?style=flat&logo=vggnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-Sympy-informational?style=flat&logo=sympy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-YOLO-informational?style=flat&logo=yolo&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
 ![](https://img.shields.io/badge/CSDN-%3E200%E5%85%B3%E6%B3%A8-informational)
 
-💬 Ask me about `package development`, `optimization method`, `pattern recognition`, `machine learning`, `data analysis`.
+💬 Ask me about `package development`, `optimization method`, `machine learning`, `data analysis`.
 
 You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
 
