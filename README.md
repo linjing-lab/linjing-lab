@@ -24,7 +24,6 @@
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=clion&leogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-Sympy-informational?style=flat&logo=sympy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
 ![](https://img.shields.io/badge/CSDN-%EF%BC%9E200%20followers-informational)&emsp;![](https://img.shields.io/badge/Pageviews-%EF%BC%9E10w-informational)
