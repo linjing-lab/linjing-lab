@@ -20,7 +20,6 @@ My pronouns:
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
