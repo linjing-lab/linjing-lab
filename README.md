@@ -3,7 +3,7 @@
     <img src="./images/head.jpg">
 </div>
 
-I was born on July 29, 2001, I am a mathematics student from `Wuhan University of Technology`, and now I'm majoring in `information and computing science`.
+> I was born on July 29, 2001, I am a mathematics student from `Wuhan University of Technology`, and now I'm majoring in `information and computing science`.
 
 How to contact me: (Here is my phone number and email address.)
 
