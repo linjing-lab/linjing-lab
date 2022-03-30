@@ -45,7 +45,6 @@ Writing & Learning Plan:
 - [optimtool](https://github.com/linjing-lab/optimtool)(Try to accelerate the Python functions.)
 - [pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)(Try to complete the Object-Detection and Semantic-Segmentation parts.)
 - [curve-research](https://github.com/linjing-lab/curve-research)(No need to hurry.)
-- c-programs(Will be launched in the future.)
 - rust-coding(Will be launched in the future.)
 
 ## &#x1f4c8; GitHub Stats
