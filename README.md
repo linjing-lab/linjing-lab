@@ -39,14 +39,6 @@ My pronouns:
 
 You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
 
-Writing & Learning Plan:
-- [data-structure](https://github.com/linjing-lab/data-structure)(Try to finist it before 2022.5.1)
-- [datawhale-operational-research](https://github.com/linjing-lab/datawhale-operational-research)(Before 2022.5.1)
-- [polars-tutorial](https://github.com/linjing-lab/polars-tutorial)(Complete three chapters before 2022.4.4)
-- [optimtool](https://github.com/linjing-lab/optimtool)(Try to accelerate the Python functions.)
-- [pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)(Try to complete the Object-Detection and Semantic-Segmentation parts.)
-- [curve-research](https://github.com/linjing-lab/curve-research)(No need to hurry.)
-- rust-coding(Will be launched in the future.)
 
 ## &#x1f4c8; GitHub Stats
 
