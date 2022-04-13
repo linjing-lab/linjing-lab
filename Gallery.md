@@ -25,7 +25,7 @@
 ### 数据结构与算法类
 |书名|形式|出版社|仓库或链接|
 |--|--|--|--|
-|《算法导论》|纸质书|机械工业出版社||
+|《算法导论》|黑皮 纸质书|机械工业出版社||
 |《数据结构 C语言版》|纸质书|清华大学出版社|[data-structure](https://github.com/linjing-lab/data-structure)|
 |《Effective STL》|纸质书|电子工业出版社|[C++ STL](http://www.cplusplus.com/reference/stl/)|
 |《挑战程序设计竞赛》|纸质书|人民邮电出版社||
@@ -37,7 +37,7 @@
 |--|--|--|--|
 |《模式识别 红书》|纸质书|张学工著 清华大学出版社|[Pattern_Recognition](https://blog.csdn.net/linjing_zyq/category_11343786.html)|
 |《模式识别 紫书》|纸质书|电子工业出版社||
-|《机器学习》|纸质书|机械工业出版社||
+|《机器学习》|黑皮 纸质书|机械工业出版社||
 |《统计学习方法》|纸质书|李航著 清华大学出版社||
 |《Python人脸识别 从入门到工程实践》|纸质书|机械工业出版社||
 |《最优化：建模，算法与理论》|主页|北京大学出版社|[Info](https://bicmr.pku.edu.cn/~wenzw/optbook.html#intro)|
