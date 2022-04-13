@@ -22,7 +22,7 @@
 
 ## 阅读列表
 
-`数据结构与算法类`：
+### 数据结构与算法类
 |书名|形式|出版社|仓库或链接|
 |--|--|--|--|
 |《算法导论》|纸质书|机械工业出版社||
@@ -32,7 +32,7 @@
 |《ACM/ICPC算法基础训练教程》|纸质书|清华大学出版社|[ACM基础算法](https://blog.csdn.net/linjing_zyq/category_11280137.html)|
 |《算法设计与分析》|纸质书|清华大学出版社||
 
-`机器学习类`：
+### 机器学习类
 |书名|形式|出版社|仓库或链接|
 |--|--|--|--|
 |《模式识别 红书》|纸质书|张学工著 清华大学出版社|[Pattern_Recognition](https://blog.csdn.net/linjing_zyq/category_11343786.html)|
@@ -44,7 +44,7 @@
 |《numpy实现机器学习算法》|仓库|ddbourgin|[numpy-ml](https://github.com/ddbourgin/numpy-ml)|
 |《PyTorch深度学习》|仓库|linjing-lab|[pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)|
 
-`编程开发类`：
+### 编程开发类
 |书名|形式|出版社|仓库或链接|
 |--|--|--|--|
 |《Rust语言圣经》|在线阅读|sunface|[course](https://course.rs/about-book.html)|
