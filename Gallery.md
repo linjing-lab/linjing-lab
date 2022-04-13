@@ -16,9 +16,9 @@
 
 * Rust
 * CUDA
-* MXNet源码
-* Darknet源码
-* Jittor源码
+* MXNet 源码
+* Darknet 源码
+* Jittor 源码
 
 ## 阅读列表
 
