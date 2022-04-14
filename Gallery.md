@@ -10,15 +10,16 @@
 
 * Python加速版本
 * C++版本
-* Rust版本
+* [Rust](https://github.com/rust-lang/rust)版本
 
 ### yearn
-
-* Rust
+* [MXNet](https://github.com/apache/incubator-mxnet)源码
+* [Jittor](https://github.com/Jittor/jittor)源码
+* [OneFlow](https://github.com/Oneflow-Inc/oneflow)源码
+* [darknet](https://github.com/pjreddie/darknet)源码
+* [Rust](https://github.com/rust-lang/rust)语言
 * CUDA
-* MXNet 源码
-* Darknet 源码
-* Jittor 源码
+
 
 ## 阅读列表
 
