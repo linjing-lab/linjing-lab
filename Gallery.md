@@ -44,6 +44,7 @@
 |《最优化：建模，算法与理论》|主页|北京大学出版社|[Info](https://bicmr.pku.edu.cn/~wenzw/optbook.html#intro)|
 |《numpy实现机器学习算法》|仓库|ddbourgin|[numpy-ml](https://github.com/ddbourgin/numpy-ml)|
 |《PyTorch深度学习》|仓库|linjing-lab|[pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)|
+|《神经网络与深度学习》|纸质书|邱锡鹏著||
 
 ### 编程开发类
 |书名|形式|出版社|仓库或链接|
