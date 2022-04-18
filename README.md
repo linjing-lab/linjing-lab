@@ -2,13 +2,11 @@
     <img src="./images/about.gif">
 </div>
 
-## Brief Introduction
+My motto: `good dvice is harsh to the ear`.
 
 My pronouns: (Some words that describe me appropriately.)
-![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)
 
-My motto:
-> good dvice is harsh to the ear.
+![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)
 
 ## 🔧 Technologies & Tools
 
