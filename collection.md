@@ -10,7 +10,6 @@
 ### [sorting-algorithms](https://github.com/linjing-lab/sorting-algorithms)
 * 13种排序方法的不同算法实现版本
 * 3种时间复杂度分析，1种空间复杂度的分析
-* Wiki撰写
 
 ### [optimtool](https://github.com/linjing-lab/optimtool)
 * Python加速版本
