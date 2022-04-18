@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <div align="center">
     <img src="./images/about.gif">
 </div>
