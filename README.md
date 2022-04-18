@@ -38,12 +38,3 @@ My pronouns:
 - `machine learning`
 
 You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/linjing-lab/linjing-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjing-lab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/linjing-lab/linjing-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=linjing-lab&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="linjing's GitHub Stats" />
-</a>
