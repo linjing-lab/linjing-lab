@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/about.gif">
+    <img src="./images/about.gif" width="110%">
 </div>
 
 How to contact me: (Here is my phone number and email address.)
