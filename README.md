@@ -33,8 +33,9 @@ My pronouns:
 
 💬 Ask me about
 
-- `package development`
-- `optimization method`
+- `optimization algorithms`
 - `machine learning`
+- `python development`
+- ...
 
 You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
