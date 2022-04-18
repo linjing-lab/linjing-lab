@@ -2,7 +2,7 @@
     <img src="./images/about.gif">
 </div>
 
-My motto: good dvice is harsh to the ear.
+My motto: good device is harsh to the ear.
 
 My pronouns: (Some words that describe me appropriately.)
 
