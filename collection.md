@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 
 ## 开源项目
+> [Gitee](https://gitee.com/linjing-lab): 用于后续存粹的开源发布，[Github](https://github.com/linjing-lab): 用于教程撰写与部分开源维护。
 
 ### [curve-research](https://github.com/linjing-lab/curve-research)
 
