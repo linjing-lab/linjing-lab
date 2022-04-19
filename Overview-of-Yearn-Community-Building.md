@@ -4,19 +4,9 @@
 
 原始仓库： [Github](https://github.com/linjing-lab)、 [Gitee](https://gitee.com/linjing-lab)
 
-Top Languages：
-* Python
-* Rust
-* C++
-* CUDA
-* Shell
+常用语言： Python、Rust、C++、CUDA、Shell
 
-Top Pronouns：
-* usability
-* performance
-* innovative
-* friendly
-* latest
+高频词汇： Usability、Performance、Innovative、Friendly、Latest
 
 ## 核心宗旨
 &emsp;&emsp;该社区游走在"开发与设计层"，面向当前社会紧缺的两大特性：性能与生态，致力于开发出后续研究人员或者工程技术人员能够快速使用的软件包，矗立于研究人工智能与数据科学等领域最新技术与软件，并发布学习教程。
