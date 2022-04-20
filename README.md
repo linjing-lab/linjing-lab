@@ -2,7 +2,7 @@
     <img src="./images/about.gif">
 </div>
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My motto: good device is harsh to the ear. </h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My motto: good device is harsh to the ear.
 
 My pronouns: (Some words that describe me appropriately.)
 
