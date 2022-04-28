@@ -29,7 +29,7 @@ My pronouns: ( Some words that describe me appropriately. )
 
 ## &#x270d; Blog & Writing
 
-![](https://img.shields.io/badge/CSDN-%EF%BC%9E200%20followers-informational)&emsp;![](https://img.shields.io/badge/Pageviews-%EF%BC%9E10w-informational)
+![](https://img.shields.io/badge/CSDN-%3E240%20followers-informational)&emsp;![](https://img.shields.io/badge/Pageviews-%EF%BC%9E12w-informational)
 
 You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
 

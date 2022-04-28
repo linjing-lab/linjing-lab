@@ -1,4 +1,4 @@
-# 关于社区（Yearn）的初步构想
+# 关于社区的初步构想
 
 创始人： [林景](https://blog.csdn.net/linjing_zyq)
 
