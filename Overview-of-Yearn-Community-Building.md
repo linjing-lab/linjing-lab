@@ -33,6 +33,16 @@ Rust语言的Cargo、 Python语言的PyPi等
 项目地址： https://github.com/linjing-lab/sorting-algorithms
 
 ### 深度学习框架（Yearn）
+编程语言: Rust, Cuda, Shell, Python
+
+项目定位: 面向Python, Rust, C等编程语言使用人群
+
+参考项目:
+* [neuronika](https://github.com/neuronika/neuronika)
+* [pjreddie/darknet](https://github.com/pjreddie/darknet)
+* [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
+* [pytorch](https://github.com/pytorch/pytorch)
+
 
 ## 学习教程
 大数据、 深度学习、 软件算法等。
