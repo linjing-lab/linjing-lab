@@ -12,7 +12,7 @@
 
 面向当前社会紧缺的两大特性：性能与生态，该社区致力于开发出研究或者技术人员能够快速使用的软件包，矗立于研究人工智能与数据科学等领域最新技术与软件。
 
-## 开发清单
+## 项目清单
 
 造轮子的社区：
 
@@ -21,11 +21,11 @@
 |项目名称|项目介绍|仓库|项目需求|
 |--|--|--|--|
 |opt-py|Python实现的优化方法包|[optimtool](https://github.com/linjing-lab/optimtool)|软件标识<br />Python优化加速|
+|opt-c|C语言实现的优化方法包|[optimtool](https://github.com/linjing-lab/optimtool)||
+|opt-rs|Rust语言实现的优化方法包|[optimtool](https://github.com/linjing-lab/optimtool)||
 |numrs|Rust语言实现的科学计算包|[numpy](https://github.com/numpy/numpy)||
 |symrs|Rust语言实现的符号运算包|[sympy](https://github.com/sympy/sympy)||
 |plot-rs|Rust语言实现的绘图工具包|[matplotlib](https://github.com/matplotlib/matplotlib)||
-|opt-c|C语言实现的优化方法包|[optimtool](https://github.com/linjing-lab/optimtool)||
-|opt-rs|Rust语言实现的优化方法包|[optimtool](https://github.com/linjing-lab/optimtool)||
 |yearn|深度学习框架：多平台、高生态、分布式、动态图、强GPU加速|[PyTorch](https://github.com/pytorch/pytorch)<br />[MxNet](https://github.com/apache/incubator-mxnet)<br />[darknet](https://github.com/pjreddie/darknet)<br />[neuronika](https://github.com/neuronika/neuronika)<br />[oneflow](https://github.com/Oneflow-Inc/oneflow)||
 
 </div>
