@@ -56,5 +56,5 @@ Rust语言的Cargo、 Python语言的PyPi等
 ### 数据结构
 项目地址： https://github.com/linjing-lab/data-structure
 
-## Rust教程
+### Rust教程
 项目地址： https://github.com/linjing-lab/rust-notes
