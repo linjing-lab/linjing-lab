@@ -4,14 +4,13 @@
 
 原始仓库： [Github](https://github.com/linjing-lab)、 [Gitee](https://gitee.com/linjing-lab)
 
-常用语言： Python、Rust、C++、CUDA、Shell
+常用语言： Python、Rust、C++、Cuda、Shell
 
 高频词汇： Usability、Performance、Innovative、Friendly、Latest
 
 ## 核心宗旨
 &emsp;&emsp;该社区游走在"开发与设计层"，面向当前社会紧缺的两大特性：性能与生态，致力于开发出后续研究人员或者工程技术人员能够快速使用的软件包，矗立于研究人工智能与数据科学等领域最新技术与软件，并发布学习教程。
 
-以下是涉及的领域：
 ## 软件包开发
 Rust语言的Cargo、 Python语言的PyPi等
 
@@ -42,7 +41,6 @@ Rust语言的Cargo、 Python语言的PyPi等
 * [pjreddie/darknet](https://github.com/pjreddie/darknet)
 * [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
 * [pytorch](https://github.com/pytorch/pytorch)
-
 
 ## 学习教程
 大数据、 深度学习、 软件算法等。
