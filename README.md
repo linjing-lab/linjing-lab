@@ -36,7 +36,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://tensorflow.google.cn/'>
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
     </a>
-    |
     <a href='https://opencv.org/'>
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/> 
     </a>
