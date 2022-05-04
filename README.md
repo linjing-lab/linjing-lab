@@ -51,7 +51,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
-    <a href='https://www.shell.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/shell.svg' alt='Shell' height='40'>
+    <a href='https://www.linuxcool.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/linuxshell.svg' alt='Linux-Shell' height='40'>
     </a>
 </p>
