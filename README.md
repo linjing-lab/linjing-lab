@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm linjing-lab </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
 I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed in a open-source [package] in optimization field. I'm also a technical writer, good at data analysis, machine learning and other fields. I love to develop software packages that can facilitate scientific research and engineering technicians.
 
@@ -35,9 +35,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://www.java.com/en/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/java.svg' alt='Java' height='40'>
-    </a>
-    <a href='https://www.eclipse.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/eclipse.svg' alt='Eclipse' height='40'>
     </a>
     <a href='https://www.jetbrains.com/clion/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
