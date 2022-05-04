@@ -34,7 +34,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
     </a>
     <a href='https://www.mathworks.com/products/matlab.html'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/matlab.svg' alt='MATLAB' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/yolo.svg' alt='MATLAB' height='40'>
     </a>
     <a href='https://visualstudio.microsoft.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudio.svg' alt='Visual-Studio' height='40'>
