@@ -21,17 +21,20 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.python.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
     </a>
-    <a href='https://pytorch.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
-    </a>
     <a href='https://en.cppreference.com/w/c'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/c.svg' alt='C' height='40'>
     </a>
-    <a href='https://visualstudio.microsoft.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudio.svg' alt='Visual-Studio' height='40'>
+    <a href='https://pypi.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
+    </a>
+    <a href='https://pytorch.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
     </a>
     <a href='https://git-scm.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
+    </a>
+    <a href='https://visualstudio.microsoft.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudio.svg' alt='Visual-Studio' height='40'>
     </a>
     <a href='https://www.java.com/en/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/java.svg' alt='Java' height='40'>
@@ -39,17 +42,14 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.jetbrains.com/clion/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
     </a>
-    <a href='https://en.cppreference.com/w/cpp'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/cplusplus.svg' alt='C++' height='40'>
-    </a>
-    <a href='https://pypi.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
-    </a>
     <a href='https://jupyter.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/jupyter.svg' alt='Jupyter' height='40'>
     </a>
     <a href='https://www.rust-lang.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/rust.svg' alt='Rust' height='40'>
+    </a>
+    <a href='https://en.cppreference.com/w/cpp'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/cplusplus.svg' alt='C++' height='40'>
     </a>
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
