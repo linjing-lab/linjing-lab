@@ -1,9 +1,5 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm linjing-lab </h1>
 
-<div align="center">
-    <img src="./images/about.gif">
-</div>
-
 My motto: good device is harsh to the ear.
 
 My pronouns: ( Some words that describe me appropriately. )
@@ -19,14 +15,8 @@ My pronouns: ( Some words that describe me appropriately. )
     <a href='https://pytorch.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
     </a>
-    <a href='https://jupyter.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/jupyter.svg' alt='Jupyter' height='40'>
-    </a>
     <a href='https://en.cppreference.com/w/c'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/c.svg' alt='C' height='40'>
-    </a>
-    <a href='https://www.jetbrains.com/clion/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
     </a>
     <a href='https://git-scm.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
@@ -34,11 +24,17 @@ My pronouns: ( Some words that describe me appropriately. )
     <a href='https://www.java.com/en/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/java.svg' alt='Java' height='40'>
     </a>
+    <a href='https://www.jetbrains.com/clion/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
+    </a>
     <a href='https://en.cppreference.com/w/cpp'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/cplusplus.svg' alt='C++' height='40'>
     </a>
     <a href='https://pypi.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
+    </a>
+    <a href='https://jupyter.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/jupyter.svg' alt='Jupyter' height='40'>
     </a>
     <a href='https://www.rust-lang.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/rust.svg' alt='Rust' height='40'>
@@ -46,23 +42,4 @@ My pronouns: ( Some words that describe me appropriately. )
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
-    <a href='https://www.sublimetext.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/csdn.svg' alt='Sublime-Text' height='40'>
-    </a>
 </p>
-
-## &#x270d; Blog & Writing
-
-![](https://img.shields.io/badge/CSDN-%3E240%20followers-informational)&emsp;![](https://img.shields.io/badge/Pageviews-%EF%BC%9E12w-informational)
-
-You can find my articles on [website](https://blog.csdn.net/linjing_zyq).
-
-💬 Ask me about
-
-- `optimization algorithms`
-- `machine learning`
-- `python development`
-
-How to contact me: (Here is my phone number and email address.)
-
-![](https://img.shields.io/badge/%F0%9F%93%9E-18207129058-grey)&emsp;![](https://img.shields.io/badge/%E2%9C%89-1439313331%40qq.com-grey) 
