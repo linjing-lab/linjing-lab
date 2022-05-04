@@ -1,10 +1,19 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm linjing-lab </h1>
 
-My motto: good device is harsh to the ear.
+I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed in a open-source [package] in optimization field. I'm also a technical writer, good at data analysis, machine learning and other fields. I love to develop software packages that can facilitate scientific research and engineering technicians.
 
-My pronouns: ( Some words that describe me appropriately. )
+<h2 align='center'><b>About Me</b></h2>
 
-![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)
+- 🔭 I'm currently preparing for the postgraduate exam
+- 🌱 I'm currently learning deep learning and software engineering
+- 🏀 I'm good at playing basketball
+- 📫 How to reach me: You can always send me an [email]
+- ✍ Where is my blog: You can click [here]
+
+[Wuhan University of Technology]: https://whut.edu.cn/
+[package]: https://github.com/linjing-lab/optimtool
+[email]: 1439313331@qq.com
+[here]: https://blog.csdn.net/linjing_zyq
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 
@@ -18,11 +27,17 @@ My pronouns: ( Some words that describe me appropriately. )
     <a href='https://en.cppreference.com/w/c'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/c.svg' alt='C' height='40'>
     </a>
+    <a href='https://visualstudio.microsoft.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudio.svg' alt='Visual-Studio' height='40'>
+    </a>
     <a href='https://git-scm.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
     </a>
     <a href='https://www.java.com/en/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/java.svg' alt='Java' height='40'>
+    </a>
+    <a href='https://www.eclipse.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/eclipse.svg' alt='Eclipse' height='40'>
     </a>
     <a href='https://www.jetbrains.com/clion/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
