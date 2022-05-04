@@ -30,9 +30,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://jupyter.org/'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
     </a>
-    <a href='https://www.mysql.com/'>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="40"/> 
-    </a>
     <a href='https://git-scm.com/'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
     </a>
@@ -44,6 +41,9 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://code.visualstudio.com/'>
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual-Studio-Code" height="40"/> 
+    </a>
+    <a href='https://www.mysql.com/'>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="40"/> 
     </a>
     <a href='https://www.rust-lang.org/'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust-lang" height="40"/>
