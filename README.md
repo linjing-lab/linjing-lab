@@ -1,19 +1,17 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed in a open-source [package] in optimization field. I'm also a technical writer, good at data analysis, machine learning and other fields. I love to develop software packages that can facilitate scientific research and engineering technicians.
+I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [package] in optimization field. I'm also a technical writer, good at data analysis, machine learning, etc. I love to develop software packages that can help researchers and engineers.
 
 <h2 align='center'><b>About Me</b></h2>
 
-- 🔭 I'm currently preparing for the postgraduate exam
 - 🌱 I'm currently learning deep learning and software engineering
-- 🏀 I'm good at playing basketball
-- 📫 How to reach me: You can always send me an [email]
-- ✍ Where is my blog: You can click [here]
+- 🏀 I'm very good at playing basketball
+- 📫 Phone number & WeChat: 18207129058
+- ✍ Where is my blog: You can find on [website]
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [package]: https://github.com/linjing-lab/optimtool
-[email]: 1439313331@qq.com
-[here]: https://blog.csdn.net/linjing_zyq
+[website]: https://blog.csdn.net/linjing_zyq
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 
