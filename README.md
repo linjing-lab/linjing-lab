@@ -10,22 +10,46 @@ My pronouns: ( Some words that describe me appropriately. )
 
 ![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)
 
-## 🔧 Technologies & Tools
+<h2 align='center'><b>Languages and Tools</b></h2>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Community-PyPi-informational?style=flat&logo=pypi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=clion&leogoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+<p align='center'>
+    <a href='https://www.python.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
+    </a>
+    <a href='https://pytorch.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
+    </a>
+    <a href='https://jupyter.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/jupyter.svg' alt='Jupyter' height='40'>
+    </a>
+    <a href='https://en.cppreference.com/w/c'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/c.svg' alt='C' height='40'>
+    </a>
+    <a href='https://www.jetbrains.com/clion/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
+    </a>
+    <a href='https://git-scm.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
+    </a>
+    <a href='https://www.java.com/en/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/java.svg' alt='Java' height='40'>
+    </a>
+    <a href='https://en.cppreference.com/w/cpp'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/cplusplus.svg' alt='C++' height='40'>
+    </a>
+    <a href='https://pypi.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
+    </a>
+    <a href='https://www.rust-lang.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/rust.svg' alt='Rust' height='40'>
+    </a>
+    <a href='https://www.sublimetext.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
+    </a>
+    <a href='https://www.sublimetext.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/csdn.svg' alt='Sublime-Text' height='40'>
+    </a>
+</p>
 
 ## &#x270d; Blog & Writing
 
