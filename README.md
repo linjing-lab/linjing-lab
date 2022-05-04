@@ -19,8 +19,8 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.python.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
     </a>
-    <a href='https://www.anaconda.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='Anaconda' height='40'>
+    <a href='https://www.spyder-ide.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/spyder.svg' alt='Spyder' height='40'>
     </a>
     <a href='https://pytorch.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
@@ -40,8 +40,8 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.jetbrains.com/clion/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
     </a>
-    <a href='https://www.microsoft.com/zh-cn/edge'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/microsoftedge.svg' alt='Microsoft-Edge' height='40'>
+    <a href='https://www.shell.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/shell.svg' alt='Shell' height='40'>
     </a>
     <a href='https://jupyter.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/jupyter.svg' alt='Jupyter' height='40'>
