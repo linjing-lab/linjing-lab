@@ -33,8 +33,8 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://git-scm.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
     </a>
-    <a href='https://www.mathworks.com/products/matlab.html'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/yolo.svg' alt='MATLAB' height='40'>
+    <a href='https://www.shell.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/shell.svg' alt='Shell' height='40'>
     </a>
     <a href='https://visualstudio.microsoft.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudio.svg' alt='Visual-Studio' height='40'>
@@ -53,5 +53,8 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
+    </a>
+    <a href='https://www.markdownguide.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/markdown.svg' alt='Markdown' height='40'>
     </a>
 </p>
