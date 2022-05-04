@@ -15,9 +15,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
-    <a href='https://www.markdownguide.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/markdown.svg' alt='Markdown' height='40'>
-    </a>
     <a href='https://www.python.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
     </a>
