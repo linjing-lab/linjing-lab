@@ -14,7 +14,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 [website]: https://blog.csdn.net/linjing_zyq
 
 <h2 align='center'><b>Languages and Tools</b></h2>
-
 <p align='center'>
     <a href='https://www.markdownguide.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/markdown.svg' alt='Markdown' height='40'>
