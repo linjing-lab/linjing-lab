@@ -19,13 +19,13 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
     </a>
     <a href='https://www.anaconda.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='MXNet' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='Anaconda' height='40'>
     </a>
     <a href='https://pytorch.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
     </a>
     <a href='https://tensorflow.google.cn/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/mxnet.svg' alt='TensorFlow' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/tensorflow.svg' alt='TensorFlow' height='40'>
     </a>
     <a href='https://jupyter.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/jupyter.svg' alt='Jupyter' height='40'>
@@ -41,9 +41,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://www.jetbrains.com/clion/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/clion.svg' alt='CLion' height='40'>
-    </a>
-    <a href='https://www.shell.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/shell.svg' alt='Shell' height='40'>
     </a>
     <a href='https://www.rust-lang.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/rust.svg' alt='Rust' height='40'>
