@@ -22,11 +22,14 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://en.cppreference.com/w/c'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/c.svg' alt='C' height='40'>
     </a>
-    <a href='https://pypi.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
+    <a href='https://www.anaconda.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='Anaconda' height='40'>
     </a>
     <a href='https://pytorch.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
+    </a>
+    <a href='https://tensorflow.google.cn/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/tensorflow.svg' alt='TensorFlow' height='40'>
     </a>
     <a href='https://git-scm.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
@@ -51,5 +54,11 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
+    </a>
+    <a href='https://crates.io/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/crates.svg' alt='Crates' height='40'>
+    </a>
+    <a href='https://pypi.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
     </a>
 </p>
