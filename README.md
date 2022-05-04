@@ -26,6 +26,9 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://jupyter.org/'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
+    </a>
+    <a href='https://www.sublimetext.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a> 
     <a href='https://www.java.com/en/'>
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/>
