@@ -55,7 +55,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
-    <a href='https://github.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/github.svg' alt='Github' height='40'>
+    <a href='https://www.markdownguide.org/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/markdown.svg' alt='Markdown' height='40'>
     </a>
 </p>
