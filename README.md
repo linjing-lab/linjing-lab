@@ -15,14 +15,14 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
+    <a href='https://en.cppreference.com/w/cpp'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='40'>
+    </a>
     <a href='https://www.python.org/'>
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
     </a>
     <a href="https://pytorch.org/"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/> 
-    </a>
-    <a href='https://tensorflow.google.cn/'>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
     </a>
     <a href='https://jupyter.org/'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
@@ -33,16 +33,14 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://git-scm.com/'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
     </a>
+    <a href='https://tensorflow.google.cn/'>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
+    </a>
+    |
+    <a href='https://opencv.org/'>
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/> 
+    </a>
     <a href='https://www.rust-lang.org/'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust-lang" height="40"/>
-    </a>
-    <a href='https://en.cppreference.com/w/cpp'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='40'>
-    </a>
-    <a href='https://www.jetbrains.com/clion/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/clion.svg' alt='CLion' height='40'>
-    </a>
-    <a href='https://www.sublimetext.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
 </p>
