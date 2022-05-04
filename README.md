@@ -52,7 +52,4 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
-    <a href='https://pypi.org/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pypi.svg' alt='PyPi' height='40'>
-    </a>
 </p>
