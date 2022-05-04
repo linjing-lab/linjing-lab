@@ -19,9 +19,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://www.python.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
     </a>
-    <a href='https://en.cppreference.com/w/c'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/c.svg' alt='C' height='40'>
-    </a>
     <a href='https://www.anaconda.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='Anaconda' height='40'>
     </a>
@@ -32,7 +29,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/tensorflow.svg' alt='TensorFlow' height='40'>
     </a>
     <a href='https://git-scm.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/git.svg' alt='Git' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/eclipse.svg' alt='Git' height='40'>
     </a>
     <a href='https://visualstudio.microsoft.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/visualstudio.svg' alt='Visual-Studio' height='40'>
