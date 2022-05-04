@@ -19,7 +19,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/python.svg' alt='Python' height='40'>
     </a>
     <a href='https://www.anaconda.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='Anaconda' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/anaconda.svg' alt='MXNet' height='40'>
     </a>
     <a href='https://pytorch.org/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/pytorch.svg' alt='PyTorch' height='40'>
