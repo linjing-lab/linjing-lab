@@ -22,7 +22,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
     </a>
     <a href="https://pytorch.org/"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/> 
     </a>
     <a href='https://www.java.com/en/'>
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/>
