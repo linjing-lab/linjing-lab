@@ -15,8 +15,8 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
-    <a href='http://www.sublimetext.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
+    <a href='https://en.cppreference.com/w/cpp'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='40'>
     </a>
     <a href='https://www.python.org/'>
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
@@ -33,6 +33,9 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     <a href='https://git-scm.com/'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
     </a>
+    <a href='http://www.sublimetext.com/'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
+    </a>
     <a href='https://jupyter.org/'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
     </a>
@@ -47,8 +50,5 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
     </a>
     <a href='https://www.rust-lang.org/'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust-lang" height="40"/>
-    </a>
-    <a href='https://en.cppreference.com/w/cpp'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='40'>
     </a>
 </p>
