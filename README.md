@@ -8,10 +8,12 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 - 🏀 I'm very good at playing basketball
 - 📫 Phone number & WeChat: 18207129058
 - ✍ Where is my blog: You can find it on [website]
+- 📚 My personal bookshelf is [here], which is mainly about math and computer science.
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [package]: https://github.com/linjing-lab/optimtool
 [website]: https://blog.csdn.net/linjing_zyq
+[here]: https://github.com/linjing-lab/bookshelf
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
