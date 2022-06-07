@@ -14,9 +14,9 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [library]: https://github.com/linjing-lab/optimtool
-[JAX]: https://github.com/google/jax
-[Polars]: https://github.com/pola-rs/polars
-[Neuronika]: https://github.com/neuronika/neuronika
+[JAX]: https://jax.readthedocs.io/en/latest/
+[Polars]: https://github.com/pola-rs/polars-book-cn
+[Neuronika]: https://docs.rs/neuronika/latest/neuronika/
 [blog]: https://blog.csdn.net/linjing_zyq
 [here]: https://github.com/linjing-lab/bookshelf
 
