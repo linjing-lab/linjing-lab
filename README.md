@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [package] in optimization field. I'm constantly exploring the latest technologies in AI related fields, such as [Polars], [Neuronika], [JAX], etc. I'm also a technical writer who is good at numerical algorithms, machine learning, etc. I'm very fond of deep thinking and being alone, which is of intangible help to my coding ability.
+I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [library] that support a variety of stable and efficient algorithms in mathematical optimization field. I'm constantly exploring the latest technologies in AI related fields, such as [Polars], [Neuronika], [JAX], etc. I'm also a technical writer who is good at numerical algorithms, machine learning, etc. I'm fond of deep thinking and being alone, which is of intangible help to my coding ability.
 
 <h2 align='center'><b>About Me</b></h2>
 <!--
@@ -13,7 +13,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 - 📫 Phone number & WeChat: 18207129058
 
 [Wuhan University of Technology]: https://whut.edu.cn/
-[package]: https://github.com/linjing-lab/optimtool
+[library]: https://github.com/linjing-lab/optimtool
 [Polars]: https://github.com/pola-rs/polars
 [Neuronika]: https://github.com/neuronika/neuronika
 [JAX]: https://github.com/google/jax
