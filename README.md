@@ -9,7 +9,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 
 - ✍ I have gained more than 250 followers on my [blog] so far.
 - 📚 My personal bookshelf is [here], which is meant to help build AI learning systems.
-- 🏀 My height is 180cm and I very good at playing basketball.
+- 🏀 My height is 180cm and I'm good at playing basketball.
 - 📫 Phone number & WeChat: 18207129058
 
 [Wuhan University of Technology]: https://whut.edu.cn/
