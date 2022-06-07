@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [library] that support a variety of stable and efficient algorithms in mathematical optimization field. I'm constantly exploring the latest technologies in AI related fields, such as [JAX], [Polars], [Neuronika], etc. I write articles with my own in-depth experience on many technical topics, such as [Pattern Recognition], [Design and Analysis of Algorithms], etc. I'm fond of deep thinking and being alone, which is of intangible help to my codability and analytical level.
+I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [library] that support a variety of stable and efficient algorithms in mathematical optimization field. I'm constantly exploring the latest technologies in AI related fields, such as [JAX], [Polars], [Neuronika], etc. I write articles with my own in-depth experience on many technical topics, such as [Pattern Recognition], [Design and Analysis of Algorithms], etc. I'm fond of deep thinking and being alone, which is of intangible help to enhancing my ability of coding and analysis.
 
 <h2 align='center'><b>About Me</b></h2>
 <!--
