@@ -1,18 +1,23 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [package] in optimization field. I'm also a technical writer who is good at data analysis, machine learning, etc. I love to develop software packages that can help researchers and engineers.
+I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [package] in optimization field. I'm constantly exploring the latest technologies in AI related fields, such as [Polars], [Neuronika], [JAX], etc. I'm also a technical writer who is good at numerical algorithms, machine learning, etc. I'm very fond of deep thinking and being alone, which is of intangible help to my coding ability.
 
 <h2 align='center'><b>About Me</b></h2>
-
+<!--
 - 🌱 I'm currently learning deep learning and software engineering
-- 🏀 I'm very good at playing basketball
+-->
+
+- 🏀 I'm very good at playing basketball.
+- ✍ I have gained more than 250 followers on my [blog] so far.
+- 📚 My personal bookshelf is [here], which is meant to help build AI learning systems.
 - 📫 Phone number & WeChat: 18207129058
-- ✍ Where is my blog: You can find it on [website]
-- 📚 My personal bookshelf is [here], which is mainly about math and computer science.
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [package]: https://github.com/linjing-lab/optimtool
-[website]: https://blog.csdn.net/linjing_zyq
+[Polars]: https://github.com/pola-rs/polars
+[Neuronika]: https://github.com/neuronika/neuronika
+[JAX]: https://github.com/google/jax
+[blog]: https://blog.csdn.net/linjing_zyq
 [here]: https://github.com/linjing-lab/bookshelf
 
 <h2 align='center'><b>Languages and Tools</b></h2>
