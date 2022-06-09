@@ -10,7 +10,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 - ✍ I have gained more than 250 followers on my [blog] so far.
 - 📚 My personal bookshelf is [here], which is meant to help building AI learning systems.
 - 🏀 I'm good at playing basketball.
-- 📝 Read [Chinese homepage] to get to know me.
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [library]: https://github.com/linjing-lab/optimtool
@@ -21,7 +20,6 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 [Design and Analysis of Algorithms]: https://blog.csdn.net/linjing_zyq/category_11280137.html
 [blog]: https://blog.csdn.net/linjing_zyq
 [here]: https://github.com/linjing-lab/bookshelf
-[Chinese homepage]: ./README_ZH.md
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
