@@ -8,10 +8,9 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 -->
 
 - ✍ I have gained more than 250 followers on my [blog] so far.
-- 📚 My personal bookshelf is [here], which is meant to help build AI learning systems.
-- 🏀 My height is 180cm and I'm good at playing basketball.
+- 📚 My personal bookshelf is [here], which is meant to help building AI learning systems.
+- 🏀 I'm good at playing basketball.
 - 📝 Read [Chinese homepage] to get to know me.
-- 📫 Phone number & WeChat: 18207129058
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [library]: https://github.com/linjing-lab/optimtool
