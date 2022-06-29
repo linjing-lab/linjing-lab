@@ -8,7 +8,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 -->
 
 - 🏀 I'm good at playing basketball, maybe a good scorer.
-- 📚 My personal bookshelf is [here], which is meant to help building AI learning systems.
+- 📚 My personal bookshelf is [here], which is subset or superset of my knowledge hierarchy.
 - ✍ I have gained more than 250 followers on my [blog] so far.
 - 🔛 I'm building a data analysis system as the initiator of [Polars] Chinese Community.
 
