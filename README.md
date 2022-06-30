@@ -10,7 +10,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 - 🏀 I'm good at playing basketball, maybe a good scorer.
 - 📚 My personal bookshelf is [here], which is a subset (or superset) of my knowledge hierarchy.
 - ✍ I have gained more than 250 followers on my [blog] so far.
-- 🔛 I'm building a data analysis system as the originator of [Polars] Chinese Community.
+- ✅ I'm building a data analysis system as the originator of [Polars] Chinese Community.
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [library]: https://github.com/linjing-lab/optimtool
