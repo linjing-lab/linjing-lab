@@ -2,6 +2,8 @@
 
 I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a open-source [library] that support a variety of stable and efficient algorithms in researching optimization. I write articles with my own in-depth experience on involved technical topics, such as [Pattern Recognition], [Design and Analysis of Algorithms], etc. I have been exploring the latest technologies in the related parts of *artificial intelligence*, and may establish a community dedicated to designing softwares and books in a groundbreaking way. I'm fond of deep thinking and being alone, which is of intangible help to enhancing my ability of coding and analysis. I was invited to be an algorithms' developer to accelerate the growth of the first *Chinese Mathematical Modeling Community* called [GitModel].
 
+ > **Life consists not in holding good cards but in playing those you hold well.**
+
 <h2 align='center'><b>About Me</b></h2>
 <!--
 - 🌱 I'm currently learning deep learning and software engineering
