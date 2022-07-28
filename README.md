@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a [library] that support a variety of stable and efficient algorithms in researching optimization. I write articles with my own in-depth experience on involved technical topics, such as [Pattern Recognition], [Design and Analysis of Algorithms], etc. I have been exploring the latest technologies in the related parts of *artificial intelligence*, and may establish a community dedicated to designing softwares and books in a groundbreaking way. I'm fond of deep thinking and being alone, which is of intangible help to enhancing my ability of coding and analysis. I will continue to use softwares to create a better society.
+I'm a Chinese undergraduate student of *Information and Computing Science* at [Wuhan University of Technology], where I individually developed a [package] that support a variety of stable and efficient algorithms in researching optimization. I write articles with my own in-depth experience on involved technical topics, such as [Pattern Recognition], [Design and Analysis of Algorithms], etc. I have been exploring the latest technologies in the related parts of *artificial intelligence*, and may establish a community dedicated to designing softwares and books in a groundbreaking way. I'm fond of deep thinking and being alone, which is of intangible help to enhancing my ability of coding and analysis. What I yearn for is that more basic or advanced softwares are born to build an optimized world.
 
  > **Life consists not in holding good cards but in playing those you hold well.**
 
@@ -15,7 +15,7 @@ I'm a Chinese undergraduate student of *Information and Computing Science* at [W
 - 💭 I'm building a data analysis system as the originator of [Polars] Chinese Community.
 
 [Wuhan University of Technology]: https://whut.edu.cn/
-[library]: https://github.com/linjing-lab/optimtool
+[package]: https://github.com/linjing-lab/optimtool
 [Polars]: https://github.com/pola-rs/polars-book-cn
 [Pattern Recognition]: https://blog.csdn.net/linjing_zyq/category_11343786.html
 [Design and Analysis of Algorithms]: https://blog.csdn.net/linjing_zyq/category_11280137.html
