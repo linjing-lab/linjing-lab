@@ -9,20 +9,22 @@ I'm a Chinese undergraduate student in the Mathematics Base Class of *Informatio
 - 🌱 I'm currently learning deep learning and software engineering
 -->
 
+- 🐎 I was invited to become a member of the [Amazon Cloud Technology Summit] in China.
 - 🏀 I'm good at playing basketball, maybe a good scorer.
 - 📚 My personal bookshelf is [here], which is a subset (or superset) of my knowledge hierarchy.
 - ✍ I have gained more than 260 followers on my [blog] so far, contact me on [Linkedin].
-- 💭 I'm building a data analysis system as the originator of [Polars] Chinese Community.
+- 📈 I made more people know [Polars] by launching [Chinese document].
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [package]: https://github.com/linjing-lab/optimtool
-[Polars]: https://github.com/pola-rs/polars-book-cn
+[Polars]: https://github.com/pola-rs/polars
+[Chinese document]: https://github.com/pola-rs/polars-book-cn
 [Pattern Recognition]: https://blog.csdn.net/linjing_zyq/category_11343786.html
 [Design and Analysis of Algorithms]: https://blog.csdn.net/linjing_zyq/category_11280137.html
 [blog]: https://blog.csdn.net/linjing_zyq
 [here]: https://github.com/linjing-lab/bookshelf
-[GitModel]: https://github.com/Git-Model
 [Linkedin]: https://www.linkedin.cn/incareer/in/%E6%99%AF-%E6%9E%97-15b281210
+[Amazon Cloud Technology Summit]: https://aws.amazon.com/cn/about-aws/events/summit2022/index/
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
