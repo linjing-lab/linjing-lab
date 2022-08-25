@@ -28,33 +28,33 @@ I'm a Chinese undergraduate student in the Mathematics Base Class of *Informatio
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
     <a href='https://en.cppreference.com/w/cpp'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/cplusplus.svg' alt='C++' height='35'/>
     </a>
     <a href='https://www.python.org/'>
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="35"/>
     </a>
     <a href="https://github.com/pytorch"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="35"/> 
     </a>
     <a href='https://www.java.com/en/'>
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="35"/>
     </a>
     <a href='https://code.visualstudio.com/'>
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual-Studio-Code" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual-Studio-Code" height="35"/> 
     </a>
     <a href='https://git-scm.com/'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35"/>
     </a>
     <a href='http://www.sublimetext.com/'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='35'>
     </a>
     <a href='https://jupyter.org/'>
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="35"/> 
     </a>
     <a href='https://www.mysql.com/'>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="35"/> 
     </a>
     <a href='https://www.rust-lang.org/'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust-lang" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust-lang" height="35"/>
     </a>
 </p>
