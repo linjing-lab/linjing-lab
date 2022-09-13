@@ -17,7 +17,7 @@ I'm a Chinese undergraduate student in the Mathematics Base Class of *Informatio
 [Wuhan University of Technology]: https://whut.edu.cn/
 [package]: https://github.com/linjing-lab/optimtool
 [Polars]: https://github.com/pola-rs/polars
-[Chinese document]: https://github.com/pola-rs/polars-book-cn
+[Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
 [Pattern Recognition]: https://blog.csdn.net/linjing_zyq/category_11343786.html
 [Design and Analysis of Algorithms]: https://blog.csdn.net/linjing_zyq/category_11280137.html
 [blog]: https://blog.csdn.net/linjing_zyq
