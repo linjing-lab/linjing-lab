@@ -11,7 +11,7 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
 - 🏀 I'm good at playing basketball, maybe a good scorer.
 - 📚 My bookshelf is [here], which is a subset (or superset) of my knowledge hierarchy.
 - ✍ I have gained more than 270 followers on my [blog] so far, contact me on [Linkedin].
-- 📩 I'm promoting the development of [Polars] by launching [Chinese document].
+- 📈 I'm promoting the development of [Polars] by launching [Chinese document].
 
 [Wuhan University of Technology]: https://whut.edu.cn/
 [package]: https://github.com/linjing-lab/optimtool
