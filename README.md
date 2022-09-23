@@ -1,10 +1,8 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student in the *Mathematics Base Class* of Information and Computing Science at [Wuhan University of Technology], where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in Qingdao Institute for Theoretical and Computational Science of Shandong University with a good level of software and machine learning. 
+I'm a Chinese undergraduate student in the *Mathematics Base Class* at [Wuhan University of Technology], where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in Qingdao Institute for Theoretical and Computational Science in Shandong University, where I will spare no effort to do scientific research. 
 
 I'm fond of deep thinking and being alone, which is of intangible help to enhancing my ability of coding and analysis. I have been exploring the new technologies in the related parts of *artificial intelligence*, and may establish a specific community dedicated to designing softwares and books to accelerate the sound society in a groundbreaking way. As *Frederick P. Brooks* says, "Good judgment comes from experience, and experience comes from bad judgment.", what I yearn for is that more advanced softwares are born to build an optimized world.
-
- > **Life consists not in holding good cards but in playing those you hold well.**
 
 <h2 align='center'><b>About Me</b></h2>
 
