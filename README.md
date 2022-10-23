@@ -32,11 +32,11 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
     <a href='https://www.python.org/'>
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
     </a>
+    <a href='https://www.mysql.com/'>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="40"/> 
+    </a>
     <a href="https://github.com/pytorch"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/> 
-    </a>
-    <a href='https://www.java.com/en/'>
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/>
     </a>
     <a href='https://code.visualstudio.com/'>
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual-Studio-Code" height="40"/> 
@@ -47,11 +47,14 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
     <a href='http://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
+    <a href='https://tensorflow.google.cn/'>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
+    </a>
     <a href='https://jupyter.org/'>
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
     </a>
-    <a href='https://www.mysql.com/'>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="40"/> 
+    <a href='https://www.java.com/en/'>
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/>
     </a>
     <a href='https://www.rust-lang.org/'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust-lang" height="40"/>
