@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
 
-I'm a Chinese undergraduate student in the *Mathematics Base Class* at [Wuhan University of Technology], where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in *Qingdao Institute for Theoretical and Computational Science*, which belongs to Institute of Fromtier and Interdisciplinary Science in Shandong University.
+I'm a Chinese undergraduate student in the *Mathematics Base Class* at [Wuhan University of Technology], where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in *Qingdao Institute for Theoretical and Computational Science*, which belongs to Institute of Fromtier and Interdisciplinary Science in Shandong University. I may be engaged in the research of quantum chemical algorithms and focus on high-performance computing and software acceleration. I'm engaged in the research of quantum chemical algorithms and focus on high-performance computing and software acceleration. I'm now in the working group called [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications], which belongs to the periodical called [Journal of Theoretical and Computational Chemistry] included in [World Scientific].
 
 I'm fond of deep thinking and being alone, which is of intangible help to enhancing my ability of coding and analysis. I have been exploring the new technologies in the related parts of *artificial intelligence*, and may establish a specific community dedicated to designing softwares and books to accelerate the sound society in a groundbreaking way. As Frederick P. Brooks says, "Good judgment comes from experience, and experience comes from bad judgment.", what I yearn for is that more advanced softwares are born to build an optimized world.
 
@@ -18,6 +18,10 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
 [blog]: https://blog.csdn.net/linjing_zyq
 [here]: https://github.com/linjing-lab/bookshelf
 [Linkedin]: https://www.linkedin.cn/incareer/in/%E6%99%AF-%E6%9E%97-15b281210
+[The Beijing Density Functional (BDF) Program Package: Methodologies and Applications]: https://www.worldscientific.com/doi/abs/10.1142/S0219633603000471
+[World Scientific]: https://www.worldscientific.com/page/about/corporate-profile
+[Journal of Theoretical and Computational Chemistry]: https://www.worldscientific.com/worldscinet/jtcc
+
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 <p align='center'>
