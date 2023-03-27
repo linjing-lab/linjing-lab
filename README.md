@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm LinJing </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Jing Lin </h1>
 
 I'm a Chinese undergraduate student in the *Mathematics Base Class* at [Wuhan University of Technology], where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in *Qingdao Institute for Theoretical and Computational Science*, which belongs to [Institute of Fromtier and Interdisciplinary Science] in Shandong University. I'm now in the working group called [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications], which was released in the periodical named [Journal of Theoretical and Computational Chemistry] included in [World Scientific].
 
@@ -6,9 +6,10 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
 
 <h2 align='center'><b>About Me</b></h2>
 
+- 🔤 Contact me on [Linkedin], either call me Jing Lin or LinJing.
 - 🏀 I'm good at playing basketball, maybe a good scorer.
 - 📚 My bookshelf is [here], which is a subset (or superset) of my knowledge hierarchy.
-- ✍ I have gained more than 300 followers on my [blog] so far, contact me on [Linkedin].
+- ✍ I have gained more than 300 followers on my [blog] so far, feel free to write something.
 - 📈 I'm promoting the development of [Polars] by launching [Chinese document].
 
 [Wuhan University of Technology]: https://whut.edu.cn/
