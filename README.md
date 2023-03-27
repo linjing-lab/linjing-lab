@@ -7,7 +7,7 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
 <h2 align='center'><b>About Me</b></h2>
 
 - 🔤 Contact me on [Linkedin], either call me Jing Lin or LinJing.
-- 🏀 I'm good at playing basketball, maybe a good scorer.
+- 🏀 I'm good at playing basketball, maybe a good scorer and dagger.
 - 📚 My bookshelf is [here], which is a subset (or superset) of my knowledge hierarchy.
 - ✍ I have gained more than 300 followers on my [blog] so far, feel free to write something.
 - 📈 I'm promoting the development of [Polars] by launching [Chinese document].
