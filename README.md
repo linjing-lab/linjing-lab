@@ -36,7 +36,7 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
     <a href='https://www.mysql.com/'>
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="40"/> 
     </a>
-    <a href="https://github.com/pytorch"> 
+    <a href="https://pytorch.org/"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/> 
     </a>
     <a href='https://code.visualstudio.com/'>
@@ -48,7 +48,7 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
     <a href='http://www.sublimetext.com/'>
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@6.20.0/icons/sublimetext.svg' alt='Sublime-Text' height='40'>
     </a>
-    <a href='https://tensorflow.google.cn/'>
+    <a href='https://tensorflow.google.en/'>
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/> 
     </a>
     <a href='https://jupyter.org/'>
