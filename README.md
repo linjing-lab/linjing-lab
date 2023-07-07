@@ -6,18 +6,17 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
 
 <h2 align='center'><b>About Me</b></h2>
 
-- 🔤 Contact me on [LinkedIn], either call me Jing Lin or LinJing.
-- 🏀 I'm good at playing basketball, maybe a good scorer and dagger.
-- 📚 My bookshelf is [here], which is a subset (or superset) of my knowledge hierarchy.
-- ✍ I have gained more than 300 followers on my [blog] so far, feel free to write something.
-- 📈 I'm promoting the development of [Polars] by launching [Chinese document].
+- 🔤 Join [Skype] to strike up further contact me and explore cooperation.
+- 📚 My [bookshelf] is a subset (or superset) of my knowledge hierarchy.
+- ✍ Gained more than 300 followers on my [blog] about basic science so far.
+- 📈 Promoting the development of [Polars] by launching [Chinese document].
 
 [package]: https://github.com/linjing-lab/optimtool
 [Polars]: https://github.com/pola-rs/polars
 [Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
 [blog]: https://blog.csdn.net/linjing_zyq
-[here]: https://github.com/linjing-lab/bookshelf
-[LinkedIn]: https://www.linkedin.cn/incareer/in/%E6%99%AF-%E6%9E%97-15b281210
+[bookshelf]: https://github.com/linjing-lab/bookshelf 
+[Skype]: https://join.skype.com/invite/qebSz9CLqJQM
 [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications]: https://www.worldscientific.com/doi/abs/10.1142/S0219633603000471
 
 
