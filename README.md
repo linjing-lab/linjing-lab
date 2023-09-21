@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Jing Lin </h1>
+<h1 align="center">Hey, I'm Jing Lin</h1>
 
 I'm a Chinese undergraduate student in the *Mathematics Base Class* at Wuhan University of Technology, where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in *Qingdao Institute for Theoretical and Computational Science*, which belongs to Institute of Frontier and Interdisciplinary Science in Shandong University. I'm now in the working group called [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications], which was released in the periodical named Journal of Theoretical and Computational Chemistry included in World Scientific.
 
