@@ -8,7 +8,7 @@ I'm fond of deep thinking and being alone, which is of intangible help to enhanc
 
 - 🔤 Join [Skype] to strike up further contact me and explore cooperation.
 - 📚 My [bookshelf] is a subset (or superset) to form knowledge hierarchy.
-- ✍ Already gained more than 300 followers on [blog] about basic science.
+- ✍ Already gained more than 400 followers on [blog] about basic science.
 - 📈 Promoting the development of [Polars] by launching [Chinese document].
 
 [package]: https://github.com/linjing-lab/optimtool
