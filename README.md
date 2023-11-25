@@ -6,7 +6,7 @@ I'm a Chinese undergraduate student in the *Mathematics Base Class* at Wuhan Uni
 
 - 🔤 Join [Skype] to strike up contact me and explore technical cooperation.
 - 📚 My [bookshelf] is a subset (or superset) to referable knowledge hierarchy.
-- ✍ Already gained more than 400 followers on [blog] about information mathematics.
+- ✍ Already gained more than 400 followers on [blog] about information science.
 - 📈 Promoting the development of [Polars] by maintaining [Chinese document].
 
 [package]: https://github.com/linjing-lab/optimtool
