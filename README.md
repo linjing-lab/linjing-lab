@@ -1,11 +1,10 @@
 <h1 align="center">Hey, I'm Jing Lin</h1>
 
-I'm a Chinese undergraduate student in the *Mathematics Base Class* at Wuhan University of Technology, where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in *Qingdao Institute for Theoretical and Computational Science*, which belongs to Institute of Frontier and Interdisciplinary Science in Shandong University. I'm now in the working group called [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications], which was released in the periodical named Journal of Theoretical and Computational Chemistry included in World Scientific. I have been exploring the new technologies and discoveries in the related parts of *artificial intelligence*, and may establish a specific community dedicated to designing quantitative products to accelerate the sound society in a groundbreaking way. What I yearn for is that more advanced softwares are born to build an optimized world.
+I'm a Chinese undergraduate student in the *Mathematics Base Class* at Wuhan University of Technology, where I individually developed a fundamental [package] that support a variety of stable and efficient algorithms to fill the gap of scientific softwares in optimization. It's a great honor to be recommended to take further study in *Qingdao Institute for Theoretical and Computational Science*, which belongs to Institute of Frontier and Interdisciplinary Science in Shandong University. I'm now in the working group called [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications], which was released in the periodical named Journal of Theoretical and Computational Chemistry included in World Scientific. The planned community is expected to be centered around *Automated Machine Learning*, start to collaborate from *Optimization*, *Probabilistic Machine Learning*, and *Method Driven Development*.
 
 <h2 align='center'><b>About Me</b></h2>
 
 - 🔤 Join [Skype] to strike up contact me and explore technical cooperation.
-- 📚 My [bookshelf] is a subset (or superset) to referable knowledge hierarchy.
 - ✍ Already gained more than 400 followers on [blog] about information science.
 - 📈 Promoting the development of [Polars] by maintaining [Chinese document].
 
@@ -13,7 +12,6 @@ I'm a Chinese undergraduate student in the *Mathematics Base Class* at Wuhan Uni
 [Polars]: https://github.com/pola-rs/polars
 [Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
 [blog]: https://blog.csdn.net/linjing_zyq
-[bookshelf]: https://github.com/linjing-lab/bookshelf 
 [Skype]: https://join.skype.com/invite/qebSz9CLqJQM
 [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications]: https://www.worldscientific.com/doi/abs/10.1142/S0219633603000471
 
