@@ -4,7 +4,7 @@ I'm a Chinese student in the *Mathematics Base Class* at Wuhan University of Tec
 
 <h2 align='center'><b>About Me</b></h2>
 
-- 🔤 Join [Skype] to strike up contact me and explore technical cooperation.
+- 🔤 Contact me and explore technical cooperation from commercial copyright.
 - ✍ Already gained more than 400 followers on [blog] about information science.
 - 📈 Promoting the development of [Polars] by maintaining [Chinese document].
 
@@ -12,7 +12,6 @@ I'm a Chinese student in the *Mathematics Base Class* at Wuhan University of Tec
 [Polars]: https://github.com/pola-rs/polars
 [Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
 [blog]: https://blog.csdn.net/linjing_zyq
-[Skype]: https://join.skype.com/invite/qebSz9CLqJQM
 [The Beijing Density Functional (BDF) Program Package: Methodologies and Applications]: https://www.worldscientific.com/doi/abs/10.1142/S0219633603000471
 
 
