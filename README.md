@@ -4,7 +4,7 @@ I'm a Chinese student in the *Mathematics Base Class* at Wuhan University of Tec
 
 <h2 align='center'><b>About Me</b></h2>
 
-- 🔤 Contact me and explore technical cooperation from commercial copyright.
+- 🔤 Contact me and explore technical cooperation for commercial copyright.
 - ✍ Already gained more than 400 followers on [blog] about information science.
 - 📈 Promoting the development of [Polars] by maintaining [Chinese document].
 
