@@ -5,7 +5,7 @@ I'm a Chinese student graduated from the Mathematics Base Class at Wuhan Univers
 <h2 align='center'><b>About Me</b></h2>
 
 - 🔤 Contact me and explore technical cooperation for commercial copyright.
-- ✍ Already gained more than 400 followers on [blog] about information science.
+- ✍ Already gained more than 500 followers on [blog] about information science.
 - 📈 Promoting the development of [Polars] by maintaining [Chinese document].
 
 [package]: https://github.com/linjing-lab/optimtool
