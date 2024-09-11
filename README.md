@@ -1,5 +1,5 @@
 - 📦 Research products published on [PyPI] revolve around Mathematics and AI.
-- 🔤 Contact me and explore technical cooperation for commercial copyright.
+- ⚛ Retain any techniques of parallel and functional for applied reality.
 - ✍ Already gained more than 500 followers on [blog] about information science.
 - 📈 Promoting the development of Polars by maintaining [Chinese document].
 
