@@ -6,4 +6,4 @@
 
 [PyPI]: https://pypi.org/user/DeeGLMath/
 [blog]: https://blog.csdn.net/linjing_zyq
-[Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.htmltubiao
+[Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
