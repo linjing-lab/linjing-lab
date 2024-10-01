@@ -1,7 +1,8 @@
-- 📦 Research products published on [PyPI] revolve around Mathematics and AI.
+- 📦 Works on Mathematics and AI that published on [PyPI] in distributed releases.
+- 💥 Deploy many enhanced effects with above alignment and below cluster on self.
 - 🌐 Retain any techniques of parallel and functional for applied infinite reality.
 - ✍ Already gained more than 500 followers on [blog] about information science.
-- 📈 Promoting the development of Polars by maintaining [Chinese document].
+- 📈 Promoting the stable development of Polars by maintaining [Chinese document].
 
 [PyPI]: https://pypi.org/user/DeeGLMath/
 [blog]: https://blog.csdn.net/linjing_zyq
