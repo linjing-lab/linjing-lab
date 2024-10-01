@@ -1,8 +1,8 @@
-- 📦 Works on Mathematics and AI that published on [PyPI] in distributed releases.
-- 💥 Deploy many enhanced effects with above alignment and below cluster on self.
+- 📦 Works on Mathematics and AI that publish on [PyPI] in distributed releases.
+- 💥 Deploy enhanced effects with above alignment and below cluster on self.
 - 🌐 Retain any techniques of parallel and functional for applied infinite reality.
 - ✍ Already gained more than 500 followers on [blog] about information science.
-- 📈 Promoting the stable development of Polars by maintaining [Chinese document].
+- 📈 Promote the stable development of Polars and maintain [Chinese document].
 
 [PyPI]: https://pypi.org/user/DeeGLMath/
 [blog]: https://blog.csdn.net/linjing_zyq
