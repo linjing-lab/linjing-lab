@@ -1,6 +1,6 @@
-- 📦 Works on Mathematics and AI that publish on [PyPI] in distributed releases.
+- 📦 Works on Mathematics, AI, and Bio-Informatics that publish on [PyPI].
 - ✍ Already gained more than 600 followers on [blog] about information science.
-- 📈 Promote the stable development of Polars and maintain [Chinese document].
+- 📈 Promote stable development of Polars and maintain [Chinese document].
 
 [PyPI]: https://pypi.org/user/DeeGLMath/
 [blog]: https://blog.csdn.net/linjing_zyq
