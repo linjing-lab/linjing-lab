@@ -1,7 +1,7 @@
-- 📦 Works on Mathematics, Artificial Intelligence, and Bio-Informatics that publish on [PyPI].
-- ✍ Gained more than 600 followers on [blog] about optimization and information science.
-- 📈 Explore high performance data analysis and machine learning of Polars [Chinese document].
+- 📦 Works on Mathematics of Optimization, Artificial Intelligence, and Bio-Informatics of Healthcare that publish on [PyPI].
+- ✍ Gained more than 600 followers on [blog] about mathematical optimization, deep learning, and information science.
+- 📃 Author of Tsinghua University Press on "[Polars] high performance data analysis and machine learning" since July 2024.
 
 [PyPI]: https://pypi.org/user/DeeGLMath/
 [blog]: https://blog.csdn.net/linjing_zyq
-[Chinese document]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
+[Polars]: https://pola-rs.github.io/polars-book-cn/user-guide/index.html
